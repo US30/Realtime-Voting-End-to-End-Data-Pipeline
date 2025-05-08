@@ -9,8 +9,10 @@ This repository hosts the source code for a real-time election voting platform. 
 
 ---
 
-## Data Flow Diagram
-![System Flow](images/system_flow.jpg)
+## Dashboard
+![Dashboard](images/dashboard1)
+![Dashboard](images/dashboard2)
+![Dashboard](images/dashboard3)
 
 ---
 
@@ -33,11 +35,4 @@ Docker Compose is used to launch Zookeeper, Kafka, and PostgreSQL containers eff
 - Docker
 - Docker Compose
 
-### Getting Started
 
-1. Clone the repository.
-2. Navigate to the root directory where `docker-compose.yml` is located.
-3. Launch the services with:
-
-   ```bash
-   docker-compose up -d
