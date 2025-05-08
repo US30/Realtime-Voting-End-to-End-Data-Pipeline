@@ -10,9 +10,9 @@ This repository hosts the source code for a real-time election voting platform. 
 ---
 
 ## Dashboard
-![Dashboard](images/dashboard1)
-![Dashboard](images/dashboard2)
-![Dashboard](images/dashboard3)
+![Dashboard](images/dashboard1.png)
+![Dashboard](images/dashboard2.png)
+![Dashboard](images/dashboard3.png)
 
 ---
 
